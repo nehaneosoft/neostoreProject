@@ -1,0 +1,17 @@
+h2{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+li{
+    list-style: none;
+    text-align: center;
+}
+
+#tc{
+    background:none;
+    border: none;
+    padding:0;
+    color:white;
+}
+
